@@ -9,7 +9,7 @@
 
 // truthy values
 // '0',' ',[]
-let name =0;
+let name ='0';
 console.log(name);
 if (name || name == 0) {
     console.log("condition is true");
